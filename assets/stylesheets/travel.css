@@ -16,17 +16,29 @@ Target the body element and set some common styles for the page:
  - font size to 16px
 */
 
+body {
+  background-color: black;
+  
+}
 
 /*
 override our h1 style to have a font size of 32px
 */
 
+h1 {
+
+
+}
 
 
 /*
 override our h2 style to have a font size of 28px
 */
 
+h2 {
+
+
+}
 
 /*
 style the element with the id of header-statement to have centered text
