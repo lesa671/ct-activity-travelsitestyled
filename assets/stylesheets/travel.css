@@ -19,6 +19,7 @@ Target the body element and set some common styles for the page:
 body {
   background-color: black;
   color: white;
+  font-family: helvetica;
 }
 
 /*
