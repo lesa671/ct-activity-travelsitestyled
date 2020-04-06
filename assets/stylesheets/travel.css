@@ -28,8 +28,7 @@ override our h1 style to have a font size of 32px
 */
 
 h1 {
-
-
+  font-size: 32px;
 }
 
 
