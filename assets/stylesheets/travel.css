@@ -270,6 +270,9 @@ th {
   - center align the text
 */
 
+section#travel-table h3 {
+  text-align: center;
+}
 
 /*
  target the footer element
