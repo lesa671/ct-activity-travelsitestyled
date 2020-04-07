@@ -197,6 +197,13 @@ ul#nav-list {
   - left and right padding to 15px
 */
 
+li.nav-link {
+  display: inline;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
 /*
  target the links inside header element
