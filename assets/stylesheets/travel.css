@@ -149,7 +149,7 @@ target the element with the class of card that also has an id of chile
 }
 
 /*
-  following properties:
+  target the header element and set the following properties:
   - width to 100%
   - height to 100px
   - line height to 100px
@@ -184,6 +184,11 @@ nav {
   - remove bullets from the unorder list
 */
 
+ul#nav-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
 
 /*
  target the elements with the class of nav-link
