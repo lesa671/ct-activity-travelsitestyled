@@ -79,7 +79,14 @@ target the elements with a class of card and set the following properties:
  - background to not repeat
 */
 
-
+.card {
+  width: 20%;
+  height: 300%;
+  margin: 2.5%;
+  padding-top: 15%;
+  float: left;
+  background-color: white;
+}
  
 /*
 target the element with the id of hero and set the following properties
