@@ -144,7 +144,9 @@ target the element with the class of card that also has an id of chile
 - set the background image to (chile_flag.svg) in our assets/images directory
 */
 
-
+.card#chile {
+    background-image: url("../images/chile_flag.svg");
+}
 
 /*
  target the header element and set the following properties:
