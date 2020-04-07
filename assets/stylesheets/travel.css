@@ -125,7 +125,9 @@ target the element with the class of card that also has an id of italy
 - set the background image to (italy_flag.svg) in our assets/images directory
 */
 
-
+.card#italy {
+  background-image: url("../images/italy_flag.svg");
+}
 
 /*
 target the element with the class of card that also has an id of aruba
