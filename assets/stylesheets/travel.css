@@ -174,7 +174,9 @@ header {
  target the nav element and float it to the right
 */
 
-
+nav {
+  float: right;
+}
 
  /*
  target the element with the id of nav-list
