@@ -291,6 +291,9 @@ footer {
  target the element with the id of copyright and float it to the left
 */
 
+#copyright {
+  float: left;
+}
 
 /*
  target the element with the id of social-links
