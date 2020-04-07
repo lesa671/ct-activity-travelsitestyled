@@ -86,6 +86,10 @@ target the elements with a class of card and set the following properties:
   padding-top: 15%;
   float: left;
   background-color: white;
+  text-align: center;
+  color: black;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
  
 /*
