@@ -237,7 +237,11 @@ table {
   - give a 2px black solid border to the table
 */
 
-
+tr, td, th {
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+}
 
 /*
  target the th element 
