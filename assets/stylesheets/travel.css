@@ -249,6 +249,10 @@ tr, td, th {
   - text color to white
 */
 
+th {
+  background-color: black;
+  color: white;
+}
 
 /*
  target the element with the id of travel-table 
