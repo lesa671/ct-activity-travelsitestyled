@@ -302,6 +302,13 @@ footer {
   - give a left and right padding of 15px
 */
 
+#social-links {
+  float: right;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
 /*
  target the links inside the element with the id of social-links
