@@ -149,7 +149,7 @@ target the element with the class of card that also has an id of chile
 }
 
 /*
- target the header element and set the following properties:
+  following properties:
   - width to 100%
   - height to 100px
   - line height to 100px
@@ -166,10 +166,14 @@ header {
  target the element with the id of logo and float it to the left
 */
 
+#logo {
+  float: left;
+}
 
 /*
  target the nav element and float it to the right
 */
+
 
 
  /*
